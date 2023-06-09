@@ -1,0 +1,22 @@
+---
+metatype: json
+---
+
+  {
+    "identifier": "io.github.thezacharytaylor.sn-everforest-dark-hard-theme",
+    "name": "Everforest Dark Hard Theme",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "description": "Everforest Dark Hard Theme for Standard Notes",
+    "version": "v0.1.0",
+    "url": "https://cdn.jsdelivr.net/gh/thezacharytaylor/sn-everforest-dark-hard-theme@v0.1.0/dist/dist.css",
+    "download_url": "https://github.com/thezacharytaylor/sn-everforest-dark-hard-theme/archive/v0.1.0.zip",
+    "marketing_url": "https://github.com/thezacharytaylor/sn-everforest-dark-hard-theme",
+    "dock_icon": {
+      "type": "circle",
+      "background_color": "#a7c080",
+      "foreground_color": "#3c4841",
+      "border_color": "#a7c080"
+    },
+    "statusBar": "dark-content"
+  }
